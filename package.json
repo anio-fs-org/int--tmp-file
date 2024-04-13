@@ -1,0 +1,24 @@
+{
+  "name": "@anio-fs/int--tmp-file",
+  "version": "1.0.0",
+  "description": "Create a temporary file.",
+  "main": "./dist/package.min.mjs",
+  "typings": "./dist/index.d.ts",
+  "author": "Anio Software <info@anio.software>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anio-fs-org/int--tmp-file.git"
+  },
+  "devDependencies": {
+    "@anio-fs/api": "^5.1.0",
+    "@vipen/target-js": "0.17.0",
+    "vipen": "0.2.1"
+  },
+  "scripts": {
+    "prepare": "./node_modules/.bin/vipen ."
+  },
+  "files": [
+    "./dist/"
+  ]
+}
