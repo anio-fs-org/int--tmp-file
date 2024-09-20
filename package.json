@@ -11,7 +11,7 @@
     "url": "git+https://github.com/anio-fs-org/int--tmp-file.git"
   },
   "devDependencies": {
-    "@anio-fs/api": "^5.1.0",
+    "@anio-fs/api": "^6.0.2",
     "@vipen/target-js": "0.17.0",
     "vipen": "0.2.1"
   },
