@@ -1,6 +1,6 @@
 {
   "name": "@anio-fs/int--tmp-file",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Create a temporary file.",
   "main": "./dist/package.min.mjs",
   "typings": "./dist/index.d.ts",
