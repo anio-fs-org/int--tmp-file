@@ -1,9 +1,9 @@
-import {tmpfile, tmpfileSync} from "../src/index.mjs"
+import {tmpFile, tmpFileSync} from "../dist/default/index.mjs"
 
 console.log(
-	await tmpfile()
+	await tmpFile()
 )
 
 console.log(
-	tmpfileSync()
+	tmpFileSync()
 )
